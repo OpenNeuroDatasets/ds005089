@@ -1,0 +1,15 @@
+{
+	"Authors":[
+		"Blanca Aguado-Lopez",
+		"Ana F. Palenciano",
+		"Jose M. G. Penalver",
+		"Paloma Diaz-Gutierrez",
+		"David Lopez-Garcia",
+		"Chiara Avancini",
+		"Luis F. Ciria",
+		"Maria Ruz"
+	],
+	"BIDSVersion":"1.2",
+	"DatasetType":"raw",
+	"Name":"Competition_EEG"
+}
