@@ -11,7 +11,7 @@
     ],
     "BIDSVersion": "1.2",
     "DatasetType": "raw",
-    "Name": "Competition_EEG",
+    "Name": "Proactive selective attention across competition contexts",
     "DatasetDOI": "doi:10.18112/openneuro.ds005089.v1.0.0",
     "License": "CC0"
 }
